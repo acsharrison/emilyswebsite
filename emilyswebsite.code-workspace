@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/cool-layout-with-complex-chainable-animation/dist"
+		},
+		{
+			"path": "../../Downloads/cool-layout-with-complex-chainable-animation/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "emilyswebsite"
+	}
+}
